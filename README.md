@@ -2,8 +2,8 @@
 Scenario: We are running the player management for the club AC Milan, and we want to see how well we pay our players and if there's any salary change that needs to be made.
 
 Goals: 
-1.We want to see how well our players are being paid
-2.We want to understand the global salary status for players
+1. We want to see how well our players are being paid;
+2. We want to understand the global salary status for players;
 3. We would like to see if we can identify some overpaid players and if it is better to make some transfers to maximize our outcome
 
 Process:
