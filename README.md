@@ -12,7 +12,7 @@ Process:
 3. We need to compare the predicted wage made by the model to see of we overpaid our players
 4. We want to have a general idea of how we want to decide if we want to transfer the players in our club.
 5. We first need to see what are having high correlation with Wage(in Euro)
-6 We take into consideration of the factors that might be correlated and better not to be included in the predictors to avoid multicollinearity
+6. We take into consideration of the factors that might be correlated and better not to be included in the predictors to avoid multicollinearity
 7. We split the dataset into training data(the rest) and test data(AC Milan)
 8. The independent variables are standardized
 9. We test some models to determine which model fits better
